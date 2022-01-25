@@ -1,4 +1,5 @@
 Alat Pendeteksi Gas adalah alat untuk mendeteksi sebuah kebocoran gas yang terjadi akibat kelalaian. 
+
 Progress = 50% 
 
 Beranggotakan: 
